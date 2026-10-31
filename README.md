@@ -1,4 +1,4 @@
-# IndustrialIQ — Natural language Q&A over industrial plant documents, with a hybrid vector + knowledge-graph backend
+#AssetGraph— Natural language Q&A over industrial plant documents, with a hybrid vector + knowledge-graph backend
 
 > Ask *"What failures has pump P-101 had after maintenance by John Kumar?"* and get a cited, confidence-scored answer drawn from work orders, inspection reports, compliance manuals, and P&ID diagrams — without opening a single file.
 
